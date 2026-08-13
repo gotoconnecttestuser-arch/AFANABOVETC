@@ -7,11 +7,10 @@ These SMS Terms and Conditions (“Terms”) govern the use of text messaging se
 
 By opting in to receive SMS messages from Brenda, you agree to receive customer care messages.
 
-Message frequency may vary. On average, 1-2 messages per month.
-Message and data rates may apply.
-You can reply STOP to unsubscribe at any time.
-You can reply HELP for assistance.
-Privacy Policy: For information about how your information is collected, used, and protected, please review our Privacy Policy at https://github.com/gotoconnecttestuser-arch/AFANABOVEPP
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Opt-out: You can opt out at any time by replying STOP.
+Help: Reply HELP for assistance.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/AFANABOVEPP
 
 Business Information
 A Fan Above
