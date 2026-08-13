@@ -5,7 +5,13 @@ Effective Date: August 13, 2026
 
 These SMS Terms and Conditions (“Terms”) govern the use of text messaging services provided by A Fan Above.
 
-By providing your mobile phone number and opting in, you agree to receive SMS communications from A Fan Above related to customer care and operational updates.
+By opting in to receive SMS messages from Brenda, you agree to receive customer care messages.
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can reply STOP to unsubscribe at any time.
+You can reply HELP for assistance.
+Privacy Policy: For information about how your information is collected, used, and protected, please review our Privacy Policy at https://github.com/gotoconnecttestuser-arch/AFANABOVEPP
 
 Business Information
 A Fan Above
